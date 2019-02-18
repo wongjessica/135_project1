@@ -1,6 +1,6 @@
 /*
 Author: Jessica Wong
-Course: CSCI-136
+Course: CSCI-135
 Instructor: Zamansky / Maryash
 Assignment: Project1B
 The program calc.cpp that outputs the solution, a mathematical formula composed of + and -.
